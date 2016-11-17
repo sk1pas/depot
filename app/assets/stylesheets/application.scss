@@ -107,7 +107,7 @@
        margin-bottom: 0.3em;
      }
    }
-   
+
    form {
      label {
        width: 5em;
@@ -127,6 +127,11 @@
        display: none
      }
    }
+ }
+
+ .locale {
+   float: right;
+   margin: -0.25em 0.1em;
  }
 
  @media all and (max-width: 800px) {
